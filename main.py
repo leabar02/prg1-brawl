@@ -1,7 +1,26 @@
 import random
 
-# Startvärdena väljer du själv.
-spelare_hp = 100
-fiende_hp = 80
+spelare_hp = 100 
 
-# Ditt första kort börjar här.
+while spelare_hp > 20:
+    spelare_hp - 10
+    break
+
+if spelare_hp < 20:
+    print("Du förlorade")
+else: 
+    print("Du vann")
+
+random.randint(3, 10)
+
+    
+
+
+
+
+
+
+
+
+
+
