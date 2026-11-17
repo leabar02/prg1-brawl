@@ -5,8 +5,10 @@ vilka kort du bygger det med. Visa planen och korten för läraren innan du bör
 
 ## Mitt spel
 
-Kraven är samma för alla. Vad gör ditt spel till ditt? Vem är du, vem slåss du mot, och var? Vad
-kan spelaren välja mellan varje tur? Finns det en regel som bara ditt spel har?
+Kraven är samma för alla. Vad gör ditt spel till ditt? 
+ Vem är du, vem slåss du mot, och var? JAG är en trollkar, jag slåss mot ett stort hjärta som är infekterat med ett virus. inuti mig själv för att inte dö. 
+  Vad kan spelaren välja mellan varje tur? Spelaren ska kunna välja mellan att trycka A,B,C eller D för att attackera viruset, viruset har två attacker: en gör att man förlorar hp över ett visst tag och den andra gör att man tar ett visst antal skada direkt. Man ska kunna blocka dock.
+  Finns det en regel som bara ditt spel har? När man dör får man tillbaka allt sitt hp igen men förlorar två attacker, viruset dör och för varje attck du gör får viruset mindre hp, och när viruset fått 100% HP HAR man vunnit och viruset skickas till en annan dimension.
 
 Skriv några meningar. Idén får ändras längs vägen, och då skriver du vad du ändrade i faser.md.
 
